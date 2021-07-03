@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Graagge
-- 👀 I’m not particularly interested in programming.
-- 🌱 I’m currently learning to work with R.
-- 💞️ I’m collaborating on confidential stuff.
-- 📫 Don't try to reach out to me.
+- 🌱 I’m currently learning to work with R for bio-pharmaceutical applications
 
 <!---
 Graagge/Graagge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
